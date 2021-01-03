@@ -9,4 +9,4 @@ NOT CURRENTLY ONLINE -- Contact Coro on psx-place.com if you need it or try Auto
 
 If it is needed it will be hosted online at: https://ps3addict.github.io/alternate
 
-Thanks to Joonie for HFW and PS3Xploit Team for PSHEN!
+Thanks to lmn7 for this method, Joonie for HFW and PS3Xploit Team for PSHEN!
