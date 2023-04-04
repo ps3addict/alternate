@@ -1,6 +1,10 @@
 # alternate
-Mirror of Alternate Installer from ps3xploit.me
+PS3HEN Alternate Installer
 
-This is meant to be used if http://ps3xploit.me/ is down so the PKG files are served directly from github.
+Created by lmn7, DeViL303, xps3riments
 
-Currently installing PS3HEN 3.2.1 on 4.82 to 4.89 and HEN 3.2.0 on 4.90
+4.90 support added by Coro
+
+Currently installing PS3HEN 3.2.1 on OFW 4.82 and HFW 4.83 to 4.90
+
+This was originally on the official PS3Xploit site. It is currently linked to from the site, but it is not hosted there now.
